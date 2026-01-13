@@ -14,15 +14,15 @@ This repository contains a Jupyter Notebook that explores the relationship betwe
 - Visualises data and model results to aid interpretation.
 
 ### 📁 Repository Structure
-
+```
 gdp‑life‑expectancy‑analysis/
-├── README.md.                               #Overview and documentation for this project
-├── requirements.txt		                #Python dependencies and versions
-├── data/
-│   └── all_data.csv		                #GDP and life expectancy dataset
+|-- README.md.                        #Overview and documentation for this project
+|-- requirements.txt		                #Python dependencies and versions
+|-- data/
+|  └── all_data.csv		                 #GDP and life expectancy dataset
 └── notebooks/
-    └── life_expectancy_gdp.ipynb   #Jupyter Notebook containing full analysis
-
+    └── life_expectancy_gdp.ipynb    #Jupyter Notebook containing full analysis
+```
 ### 📦 Requirements
 
 To run this project, install the required Python packages listed in `requirements.txt`. This file specifies the libraries and versions used in the analysis so others can recreate your environment.
@@ -33,15 +33,15 @@ Install all dependencies at once using:
 pip install -r requirements.txt
 ```
 
-numpy==2.1.3
-pandas==2.3.2
-matplotlib==3.10.0
-seaborn==0.13.2
-scipy==1.15.3
-statsmodels==0.14.4
-scikit-learn==1.6.1
-ipykernel==6.29.5
-notebook==7.3.2
+- numpy==2.1.3
+- pandas==2.3.2
+- matplotlib==3.10.0
+- seaborn==0.13.2
+- scipy==1.15.3
+- statsmodels==0.14.4
+- scikit-learn==1.6.1
+- ipykernel==6.29.5
+- notebook==7.3.2
 
 ### **📌 Data Source**
 
