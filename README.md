@@ -44,7 +44,7 @@ pip install -r requirements.txt
 - scikit-learn==1.6.1
 - ipykernel==6.29.5
 - notebook==7.3.2
-- 
+  
 ---
 ### **📌 Data Source**
 
