@@ -75,7 +75,7 @@ Possible extensions include:
 
 ### **📜 License**
 
-This project is available under the **MIT License** (if applicable – update as needed).
+This project is available under the **MIT License**.
 
 ### **📌 Acknowledgements**
 
