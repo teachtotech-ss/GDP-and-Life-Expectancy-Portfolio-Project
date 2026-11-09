@@ -14,19 +14,14 @@ This repository contains a Jupyter Notebook that explores the relationship betwe
 - Makes predictions for new GDP values.
 - Visualises data and model results to aid interpretation
 ---
+
 ### 📁 Repository Structure
 ```
-gdp‑life‑expectancy‑analysis/
-|-- README.md.                        #Overview and documentation for this project	               
-|-- data/
-|  └── all_data.csv		                 #GDP and life expectancy dataset
-└── notebooks/
-    └── life_expectancy_gdp.ipynb    #Jupyter Notebook containing full analysis
+GDP-and-Life-Expectancy-Portfolio-Project/
+├── README.md                    # Overview and documentation
+├── all_data.csv                 # GDP and life expectancy dataset
+└── life_expectancy_gdp.ipynb    # Jupyter Notebook with full analysis
 ```
----
-### 📦 Requirements
-
-To run this project, install the required Python packages listed in `requirements.txt`. This file specifies the libraries and versions used in the analysis so others can recreate your environment.
 
 Install all dependencies at once using:
 
