@@ -47,7 +47,7 @@ The dataset was provided through the **Codecademy Data Science Career Path proje
 ---
 ### 📈 Key Results
 
-- A **A weak-to-moderate positive, statistically significant** correlation was found between GDP and life expectancy (*r* ≈ 0.343, *p* ≈ 0.001).
+- A **weak-to-moderate positive** correlation was found between GDP and life expectancy (*r* ≈ 0.343, *p* ≈ 0.001).
 - A **simple linear regression model** quantified the relationship, showing that predicted life expectancy increases with GDP.
 - The model explains a portion of the variation in life expectancy, while predictions illustrate how values change across the spectrum of GDP.
 
