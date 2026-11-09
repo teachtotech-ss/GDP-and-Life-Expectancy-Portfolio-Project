@@ -17,8 +17,7 @@ This repository contains a Jupyter Notebook that explores the relationship betwe
 ### 📁 Repository Structure
 ```
 gdp‑life‑expectancy‑analysis/
-|-- README.md.                        #Overview and documentation for this project
-|-- requirements.txt		                #Python dependencies and versions
+|-- README.md.                        #Overview and documentation for this project	               
 |-- data/
 |  └── all_data.csv		                 #GDP and life expectancy dataset
 └── notebooks/
@@ -32,7 +31,7 @@ To run this project, install the required Python packages listed in `requirement
 Install all dependencies at once using:
 
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn notebook
 ```
 
 - numpy==2.1.3
